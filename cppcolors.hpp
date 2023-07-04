@@ -1,7 +1,7 @@
 /*
 Version 1
 Cpp Colors -- by Cactical
-A file with asci escape colors codes mapped to variables that can be used to color text.
+A file with ANSI escape colors codes mapped to variables that can be used to color text.
 
 Made with love :)
 
