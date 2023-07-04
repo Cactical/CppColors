@@ -11,4 +11,4 @@ Example...
     // This will be red.
     std::cout << "Greetings, Universe!";
 
-All the variables are asci escape color codes.
+All the variables are ANSI escape color codes.
